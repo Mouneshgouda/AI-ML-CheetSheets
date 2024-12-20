@@ -8,14 +8,14 @@ This GitHub repository gathers the most popular cheatsheets and quick reference 
 For an ease of download and browse over the files, a Google Drive version of this GitHub repository is available [here](https://drive.google.com/drive/folders/1yReFa2Af9icmdEaAYOUocepkQk_gGJJK?usp=sharing).
 
 <div style="text-align: center;">
-  <img src="https://github.com/Mouneshgouda/AI-ML-cheatsheets/blob/main/Google%20Drive.png" width="380" hspace="1"/>
-  <img src="https://github.com/Mouneshgouda/AI-ML-cheatsheets/blob/main/Mathematics.png" width="380"/>
+  <img src="https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/Google%20Drive.png" width="380" hspace="1"/>
+  <img src="https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/Mathematics.png" width="380"/>
 </div>
 
 # AI-ML-roadmap
 
 The global structure of this GitHub repository follows to some extent the following AI and Machine Learning roadmap.
-![AI-ML-roadmap](https://github.com/Mouneshgouda/AI-ML-cheatsheets/blob/main/AI%20roadmap.png)
+![AI-ML-roadmap](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/AI%20roadmap.png)
 
 ## The structure of the folder
 
