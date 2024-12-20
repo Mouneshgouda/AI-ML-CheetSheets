@@ -1,7 +1,7 @@
 # AI-ML-cheatsheets
 
 This GitHub repository gathers the most popular cheatsheets and quick reference guides for Artificial Intelligence (AI) and Machine learning (ML).
-![AI-ML-cheatsheets](https://github.com/Mouneshgouda/AI-ML-cheatsheets/blob/main/AI-ML-cheatsheets.png)
+![AI-ML-cheatsheets](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/AI-ML-cheatsheets.png)
 
 # Google Drive
 
